@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4b73742-5ee9-4a21-8aa1-d0d0202b84cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oWCkCoeEeWmLTxjNT5VRPFaggy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webmagic" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.HtmlUnitWebCrawl">
+    <configuration name="CrawlUsingJSOUP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CrawlUsingJSOUP" />
+      <module name="JavaWebScrapper" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HtmlUnitWebCrawl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HtmlUnitWebCrawl" />
+      <module name="JavaWebScrapper" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebMagicCrawler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WebMagicCrawler" />
+      <module name="JavaWebScrapper" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HtmlUnitWebCrawl" />
+        <item itemvalue="Application.WebMagicCrawler" />
+        <item itemvalue="Application.CrawlUsingJSOUP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4b73742-5ee9-4a21-8aa1-d0d0202b84cb" name="Default Changelist" comment="" />
+      <created>1613393099280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613393099280</updated>
+      <workItem from="1613393102703" duration="3295000" />
+      <workItem from="1613397220062" duration="8524000" />
+      <workItem from="1613425089588" duration="1568000" />
+      <workItem from="1613429213325" duration="3583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="109" width="374" height="576" key="#com.intellij.ide.util.MemberChooser" timestamp="1613409037337">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="491" y="109" width="374" height="576" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1613409037337" />
+    <state x="435" y="257" width="634" height="280" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1613448379616">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="435" y="257" width="634" height="280" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1366.741@0.27.1366.741" timestamp="1613448379616" />
+    <state x="466" y="155" width="424" height="483" key="FileChooserDialogImpl" timestamp="1613429008392">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="155" width="424" height="483" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1613429008392" />
+    <state width="1320" height="233" key="GridCell.Tab.0.bottom" timestamp="1613449745821">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="233" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1613449745821" />
+    <state width="1320" height="233" key="GridCell.Tab.0.center" timestamp="1613449745820">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="233" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1613449745820" />
+    <state width="1320" height="233" key="GridCell.Tab.0.left" timestamp="1613449745819">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="233" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1613449745819" />
+    <state width="1320" height="233" key="GridCell.Tab.0.right" timestamp="1613449745820">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="233" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1613449745820" />
+    <state x="166" y="27" width="1024" height="740" key="SettingsEditor" timestamp="1613397403889">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="166" y="27" width="1024" height="740" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1613397403889" />
+  </component>
+</project>
